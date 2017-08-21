@@ -5,9 +5,9 @@ Assignment 5. From [http://data.worldbank.org](http://data.worldbank.org) downlo
 
 ## Rubric
 
-| 	            | Dataset	| Table	| Stem-and-leaf plot | Bar chart | Scatterplot |
-| ------------- | ------- | ----- | ------------------ | --------- | ----------- |
-| Sophisticated	| (4-5 pts) | (4-5 pts) | (4-5 pts) | (4-5 pts) | (4-5 pts) |
+| 	            | Data & Dev	| Table	| Stem-and-leaf plot | Bar chart | Scatterplot |
+| ------------- | ----------- | ----- | ------------------ | --------- | ----------- |
+| Sophisticated	| Data was carefully chosen and formatted, good development practices were demonstrated (4-5 pts) | Table is well formatted and presents the data to support visual comparison (4-5 pts) | Stem-and-leaf is well formatted and coded (4-5 pts) | Bar chart is well formatted and coded (4-5 pts) | Scatterplot is well formatted and coded (4-5 pts) |
 | Competent	    | (2-3 pts) | (2-3 pts) | (2-3 pts) | (2-3 pts) | (2-3 pts) |
 | Needs work	  | (0-1 pts) | (0-1 pts) | (0-1 pts) | (0-1 pts) | (0-1 pts) |
 
