@@ -6,10 +6,10 @@ Assignment 5. From [http://data.worldbank.org](http://data.worldbank.org) downlo
 ## Rubric
 
 | 	            | Dataset	| Table	| Stem-and-leaf plot | Bar chart | Scatterplot |
-| ------------- | --------------- | ------------------ | --------- | ----------- |
-| Sophisticated	|  |  |  | |
-| Competent	    |  |  |  | |
-| Needs work	  |  |  |  | |
+| ------------- | ------- | ----- | ------------------ | --------- | ----------- |
+| Sophisticated	| (4-5 pts) | (4-5 pts) | (4-5 pts) | (4-5 pts) | (4-5 pts) |
+| Competent	    | (2-3 pts) | (2-3 pts) | (2-3 pts) | (2-3 pts) | (2-3 pts) |
+| Needs work	  | (0-1 pts) | (0-1 pts) | (0-1 pts) | (0-1 pts) | (0-1 pts) |
 
 
 ## Homework Guidelines
