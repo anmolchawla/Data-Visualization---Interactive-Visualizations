@@ -1,15 +1,15 @@
 # INF 554 Assignment 5
 
 ## Description 
-Assignment 5. From [http://data.worldbank.org](http://data.worldbank.org) download Rural population (% of total population) for 20 countries and a year of your choice. In an HTML document, load the data as CSV then using D3 present the data in a table, then draw a stem-and-leaf plot, a bar chart and a scatterplot of the data. Axes are not required. You can demonstrated good development practices in README.md with explanations on the set-up and how you deployed and a screenshot of your local development environment running the page. Publish using your SCF account (see instructions below) and add link to the page in README.md.
+Assignment 5. From [http://data.worldbank.org](http://data.worldbank.org) download Rural population (% of total population) for 20 countries and a year of your choice. In an HTML document, load the data as CSV using D3 and present the data in a table, then draw a stem-and-leaf plot, a bar chart and a scatterplot of the data. Axes are not required. You can demonstrated good development practices in README.md with explanations on the set-up and how you deployed and a screenshot of your local development environment running the page. Publish using your SCF account (see instructions below) and add link to a4.html in the README.md. All files, including a4.html should be stored in the repository.
 
 ## Rubric
 
-| 	            | Table  | Scatterplot / Bar chart / Stem-and-leaf plot  | Development & Published Page |
+| 	             | Table  | Scatterplot / Bar chart / Stem-and-leaf plot  | Development & Published Page |
 | ------------- | ------ | --------------------------------------------- | ---------------------------- |
-| Sophisticated | Table is well formatted and well presented, supports well visual comparison, uses D3 data join, data is well formatted, imported as CSV or JSON (4-5 pts) | Chart is well formatted, uses D3 data join, data is well formatted, imported as CSV or JSON (4-5 pts per chart) | Use of GIT, developent set-up is well demonstrated and documented, page is well formatted with a proper layout and explanatory text (4-5 pts) | 
-| Competent     | Table not well formatted, not well presented, support for visual comparison can be improved, improper use of D3 data join, data is not well formatted, not imported in CSV or JSON (2-3 pts) | Chart not well formatted, improper use of D3 data join, data not well formatted, not imported as CSV or JSON (2-3 pts per chart) | Use of GIT, developent set-up is not well demonstrated, documented, page is not well formatted with proper layout or explanatory text (2-3 pts) |
-| Needs work    | Table is not formatted or not presented, do not support visual comparison, do not use D3 data join, data is not formatted, not imported as CSV or JSON (0-1 pts) | Chart is not formatted, do not use D3 data join, data is not formatted, not imported as CSV or JSON (0-1 pts per chart) | Use of GIT, developent set-up is not demonstrated or documented, page is not formatted with proper layout or explanatory text (0-1 pts) |
+| Sophisticated | Table is well formatted and well presented, supports well visual comparison, uses D3 data join, data is well formatted, imported as CSV (4-5 pts) | Chart is well formatted, uses D3 data join, data is well formatted, imported as CSV (4-5 pts per chart) | Use of GIT, developent set-up is well demonstrated and documented, page is well formatted with a proper layout and explanatory text (4-5 pts) | 
+| Competent     | Table not well formatted, not well presented, support for visual comparison can be improved, improper use of D3 data join, data is not well formatted, not imported in CSV (2-3 pts) | Chart not well formatted, improper use of D3 data join, data not well formatted, not imported as CSV (2-3 pts per chart) | Use of GIT, developent set-up is not well demonstrated, documented, page is not well formatted with proper layout or explanatory text (2-3 pts) |
+| Needs work    | Table is not formatted or not presented, do not support visual comparison, do not use D3 data join, data is not formatted, not imported as CSV (0-1 pts) | Chart is not formatted, do not use D3 data join, data is not formatted, not imported as CSV (0-1 pts per chart) | Use of GIT, developent set-up is not demonstrated or documented, page is not formatted with proper layout or explanatory text (0-1 pts) |
 
 
 ## Publishing Instructions 
@@ -26,7 +26,7 @@ __SSH Example__
 $ ssh <username>@aludra.usc.edu  #username is your USC username as it appears in your usc email address
 $ mkdir public_html  # automatically mapped by Apache to http://www-scf.usc.edu/~username
 $ cd public_html
-$ cat > index.html  # paste what follows into index.html; after paste command type Ctrl+D
+$ cat > a4.html  # paste what follows into index.html; after paste command type Ctrl+D
 <html>
    <head>
        <title>HTML Page Template</title>
