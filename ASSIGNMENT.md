@@ -43,10 +43,11 @@ $ chmod -R 755 public_html  # make readable by www user for Apache to access
 You should be able to see the page by going to: http://www-scf.usc.edu/~username/a5.html
 
 ### References
-* http://www.putty.org
 * https://itservices.usc.edu/scf/
 * https://www.youtube.com/watch?v=yfDDw4v0bzY
+* http://www.putty.org
 * https://filezilla-project.org
+* http://mobaxterm.mobatek.net/
 
 ## Homework Guidelines
 - Homework repository must be updated before the start of next class
