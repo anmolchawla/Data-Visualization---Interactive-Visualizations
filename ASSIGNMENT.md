@@ -2,7 +2,7 @@
 
 ## Description
 
-From [http://data.worldbank.org](http://data.worldbank.org) download *Rural population (% of total population)* for 20 countries and a year of your choice. In an HTML document named `a5.html`, load the data as CSV using D3 and present the data in a table, then draw a stem-and-leaf plot, a bar chart, and a scatterplot of the data. Axes are not required. Demonstrate good development practices in README.md (explain set-up, deployment, and add a screenshot of your local development environment running the page). Publish on your USC SCF account (see instructions below) and add a link to the **published** `a5.html` in `README.md`. All files, including `a5.html` should be stored in the repository. Cite your source in `a5.html`.
+From [http://data.worldbank.org](http://data.worldbank.org), download *Rural population (% of total population)* data for 20 countries and a year of your choice. In an HTML document named `a5.html`, load the data as CSV using D3 and present the data in a table, then draw a stem-and-leaf plot, a bar chart, and a scatterplot of the data. Axes are not required. Demonstrate good development practices in README.md (explain set-up, deployment, and add a screenshot of your local development environment running the page). Publish on your USC SCF account ([see instructions below](#usc-scf-publishing-instructions)) and add a link to the **published** `a5.html` in `README.md`. All files, including `a5.html` should be stored in the repository. Describe and cite your source in `a5.html`.
 
 ## Rubric
 
@@ -15,12 +15,12 @@ From [http://data.worldbank.org](http://data.worldbank.org) download *Rural popu
 
 ## USC SCF Publishing Instructions 
 
-All USC students are eligible for UNIX Computing Accounts for Students (SCF) accounts. Students that need to access USC UNIX resources may do so using their Student Computing Facility (SCF) accounts. Located at aludra.usc.edu and nunki.usc.edu, these two servers act as time-sharing hosts for all student accounts. See the [SCF](https://itservices.usc.edu/scf/) page for more details.
+All USC students are eligible for UNIX Computing Accounts for Students (SCF) accounts. Students that need to access USC UNIX resources may do so using their Student Computing Facility (SCF) accounts. Located at `aludra.usc.edu` and `nunki.usc.edu`, these two servers act as time-sharing hosts for all student accounts. See the [SCF](https://itservices.usc.edu/scf/) page for more details.
 
 You can publish your work in one of several ways:
 
-- Remote login using [SSH](https://itservices.usc.edu/ssh) and/or use [`scp`](https://linux.die.net/man/1/scp) from a Unix terminal (For a Unix-compatible terminal on Windows, use [Putty](http://www.putty.org), also available on the [ITS software pages](https://itservices.usc.edu/software/).
-- Connect with [SFTP](https://itservices.usc.edu/sftp) (secure FTP) with a client such as [Filezilla](https://filezilla-project.org).
+- Remote login using [SSH](https://itservices.usc.edu/ssh) or use [`scp`](https://linux.die.net/man/1/scp) (secure copy) from a Unix terminal (For a Unix-compatible terminal on Windows, use [Putty](http://www.putty.org), also available on the [ITS software pages](https://itservices.usc.edu/software/), or [MobaXterm](http://mobaxterm.mobatek.net/)).
+- Connect with [SFTP](https://itservices.usc.edu/sftp) (secure FTP) using a client such as [Filezilla](https://filezilla-project.org).
 
 __SSH Example__
 
