@@ -19,8 +19,9 @@ All USC students are eligible for UNIX Computing Accounts for Students (SCF) acc
 
 You can publish your work in one of several ways:
 
-- Remote login using [SSH](https://itservices.usc.edu/ssh) or use [`scp`](https://linux.die.net/man/1/scp) (secure copy) from a Unix terminal (For a Unix-compatible terminal on Windows, use [Putty](http://www.putty.org), also available on the [ITS software pages](https://itservices.usc.edu/software/), or [MobaXterm](http://mobaxterm.mobatek.net/)).
+- Remote login using [SSH](https://itservices.usc.edu/ssh) or use [`scp`](https://linux.die.net/man/1/scp) (secure copy) from a Unix terminal (For a Unix-compatible terminal on Windows, use [Putty](http://www.putty.org), also available on the [ITS software pages](https://itservices.usc.edu/software/)).
 - Connect with [SFTP](https://itservices.usc.edu/sftp) (secure FTP) using a client such as [Filezilla](https://filezilla-project.org).
+- Use [MobaXterm](http://mobaxterm.mobatek.net/) (support both `ssh` and `sftp`).
 
 __SSH Example__
 
