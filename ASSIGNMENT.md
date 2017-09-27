@@ -2,7 +2,7 @@
 
 ## Description
 
-From [http://data.worldbank.org](http://data.worldbank.org), download *Rural population (% of total population)* data for 20 countries and a year of your choice. In an HTML document named `a5.html`, load the data as CSV using D3 and present the data in a table, then draw a stem-and-leaf plot, a bar chart, and a scatterplot of the data. Axes are not required. Demonstrate good development practices in README.md (explain set-up, deployment, and add a screenshot of your local development environment running the page). Publish on your USC SCF account ([see instructions below](#usc-scf-publishing-instructions)) and add a link to the **published** `a5.html` in `README.md`. All files, including `a5.html` should be stored in the repository. Describe and cite your source in `a5.html`.
+From [http://data.worldbank.org](http://data.worldbank.org), download *Rural population (% of total population)* data for 20 countries and a year of your choice. In an HTML document named `a5.html`, load the data as CSV using D3 and present the data in a table, then draw a stem-and-leaf plot, a bar chart, and a scatterplot of the data. Axes are not required. Demonstrate good development practices in README.md (explain set-up, deployment, and use incremental commits). Publish on your USC SCF account ([see instructions below](#usc-scf-publishing-instructions)) and add a link to the **published** `a5.html` in `README.md`. All files, including `a5.html` should be stored in the repository. Describe and cite your source in `a5.html`.
 
 ## Rubric
 
