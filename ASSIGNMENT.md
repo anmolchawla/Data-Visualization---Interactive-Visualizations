@@ -41,7 +41,7 @@ $ cat > a5.html  # paste what follows into a5.html; when done pasting, type Ctrl
 $ chmod -R 755 public_html  # make readable by www user for Apache to access 
 ```
 
-You should be able to see the page by going to: http://www-scf.usc.edu/~username/a5.html
+You should be able to see the page by going to: `http://www-scf.usc.edu/~username/a5.html`
 
 ### References
 * https://itservices.usc.edu/scf/
