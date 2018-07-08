@@ -5,8 +5,8 @@
 From [http://data.worldbank.org](http://data.worldbank.org), download *Rural population (% of total population)* data for 20 countries and a year of your choice. In an HTML document named `a5.html`, load the data as CSV using D3. With D3 create a  table, a bar chart, a scatterplot, a bubble chart and a line chart. For the charts create minimal axes (no values, tickmarks, arrows). Demonstrate good development practices in README.md (explain set-up, deployment, and use incremental commits). Publish on your USC SCF account ([see instructions below](#usc-scf-publishing-instructions)) and add a link to the **published** `a5.html` in `README.md`. All files, including `a5.html` should be stored in the repository. Describe and cite your data source in `a5.html`.
 
 ## Rubric
-
-| 	             | Table  | Scatterplot / Bar chart / Stem-and-leaf plot  | Development & Published Page |
+Scatterplot
+| 	             | Table  | Graphs                                        | Development & Published Page |
 | ------------- | ------ | --------------------------------------------- | ---------------------------- |
 | Sophisticated | Table is well formatted and well presented, supports well visual comparison, uses D3 data join, data is well formatted, imported as CSV (4-5 pts) | Chart is well formatted, uses D3 data join, data is well formatted, imported as CSV (4-5 pts per chart) | Use of GIT, developent set-up is well demonstrated and documented, page is well formatted with a proper layout and explanatory text (4-5 pts) | 
 | Competent     | Table not well formatted, not well presented, support for visual comparison can be improved, improper use of D3 data join, data is not well formatted, not imported in CSV (2-3 pts) | Chart not well formatted, improper use of D3 data join, data not well formatted, not imported as CSV (2-3 pts per chart) | Use of GIT, developent set-up is not well demonstrated, documented, page is not well formatted with proper layout or explanatory text (2-3 pts) |
