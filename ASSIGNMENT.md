@@ -1,11 +1,11 @@
-# INF 554 Assignment 5
+# INF 554 Assignment 4
 
 ## Description
 
-From [http://data.worldbank.org](http://data.worldbank.org), download *Rural population (% of total population)* data for 20 countries and a year of your choice. In an HTML document named `a5.html`, load the data as CSV using D3. With D3 create a  table, a bar chart, a scatterplot, a bubble chart and a line chart. For the charts create minimal axes (no values, tickmarks, arrows). Demonstrate good development practices in README.md (explain set-up, deployment, and use incremental commits). Publish on your USC SCF account ([see instructions below](#usc-scf-publishing-instructions)) and add a link to the **published** `a5.html` in `README.md`. All files, including `a5.html` should be stored in the repository. Describe and cite your data source in `a5.html`.
+From [http://data.worldbank.org](http://data.worldbank.org), download *Rural population (% of total population)* data for 20 countries and a year of your choice. In an HTML document named `a4.html`, load the data as CSV using D3. With D3 create a  table, a bar chart, a scatterplot, and a bubble chart. For the charts create minimal axes (no values, tickmarks, arrows). Demonstrate good development practices in README.md (explain set-up, deployment, and use incremental commits). Publish on your USC SCF account ([see instructions below](#usc-scf-publishing-instructions)) and add a link to the **published** `a4.html` in `README.md`. All files, including `a4.html` should be stored in the repository. Describe and cite your data source in `a4.html`.
 
 ## Rubric
-Scatterplot
+
 | 	             | Table  | Graphs                                        | Development & Published Page |
 | ------------- | ------ | --------------------------------------------- | ---------------------------- |
 | Sophisticated | Table is well formatted and well presented, supports well visual comparison, uses D3 data join, data is well formatted, imported as CSV (4-5 pts) | Chart is well formatted, uses D3 data join, data is well formatted, imported as CSV (4-5 pts per chart) | Use of GIT, developent set-up is well demonstrated and documented, page is well formatted with a proper layout and explanatory text (4-5 pts) | 
