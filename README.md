@@ -1,3 +1,3 @@
-# INF 554 Assignment 5
+# INF 554 Assignment 4
 
 Update this README as needed.
