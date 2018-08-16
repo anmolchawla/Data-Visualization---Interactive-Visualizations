@@ -29,7 +29,7 @@ __SSH Example__
 $ ssh <username>@aludra.usc.edu  # username is your USC username as it appears in your USC email address
 $ mkdir public_html  # automatically mapped by Apache to http://www-scf.usc.edu/~username
 $ cd public_html
-$ cat > a5.html  # paste what follows into a5.html; when done pasting, type Ctrl+D to send EOF to close the file
+$ cat > a4.html  #paste into a4.html; when done pasting, type Ctrl+D to send EOF to close the file
 <html>
    <head>
        <title>HTML Page Template</title>
