@@ -2,7 +2,7 @@
 
 ## Description
 
-From [http://data.worldbank.org](http://data.worldbank.org), download *Rural population (% of total population)* data for 20 countries and a year of your choice. In an HTML document named `a4.html`, load the data as CSV using D3. With D3 create a  table, a bar chart, a scatterplot, and a bubble chart. For the charts create minimal axes (no values, tickmarks, arrows). Demonstrate good development practices in README.md (explain set-up, deployment, and use incremental commits). Publish on your USC SCF account ([see instructions below](#usc-scf-publishing-instructions)) and add a link to the **published** `a4.html` in `README.md`. All files, including `a4.html` should be stored in the repository. Describe and cite your data source in `a4.html`.
+From [http://data.worldbank.org](http://data.worldbank.org), download *Rural population (% of total population)* data for 20 countries and a year of your choice. In `index.html` load the data as CSV using D3. With D3 create a table, a bar chart, a scatterplot, and a bubble chart. Create axes for the charts (no values, tickmarks, or axis arrows required). Describe and cite your data source in the page. Document in `README.md`. Demonstrate good development practices (explain set-up, deployment, and use incremental commits). Publish on your USC SCF account ([see instructions below](#usc-scf-publishing-instructions)) and add a link to the **published** `index.html` in `README.md`. 
 
 ## Rubric
 
@@ -10,8 +10,7 @@ From [http://data.worldbank.org](http://data.worldbank.org), download *Rural pop
 | ------------- | ------ | --------------------------------------------- | ---------------------------- |
 | Sophisticated | Table is well formatted and well presented, supports well visual comparison, uses D3 data join, data is well formatted, imported as CSV (4-5 pts) | Chart is well formatted, uses D3 data join, data is well formatted, imported as CSV (4-5 pts per chart) | Use of GIT, developent set-up is well demonstrated and documented, page is well formatted with a proper layout and explanatory text (4-5 pts) | 
 | Competent     | Table not well formatted, not well presented, support for visual comparison can be improved, improper use of D3 data join, data is not well formatted, not imported in CSV (2-3 pts) | Chart not well formatted, improper use of D3 data join, data not well formatted, not imported as CSV (2-3 pts per chart) | Use of GIT, developent set-up is not well demonstrated, documented, page is not well formatted with proper layout or explanatory text (2-3 pts) |
-| Needs work    | Table is not formatted or not presented, do not support visual comparison, do not use D3 data join, data is not formatted, not imported as CSV (0-1 pts) | Chart is not formatted, do not use D3 data join, data is not formatted, not imported as CSV (0-1 pts per chart) | Use of GIT, developent set-up is not demonstrated or documented, page is not formatted with proper layout or explanatory text (0-1 pts) |
-
+| Needs work    | Table is not formatted or not presented, do not support visual comparison, does not use D3 data join, data is not formatted, not imported as CSV (0-1 pts) | Chart is not formatted, does not use D3 data join, data is not formatted, not imported as CSV (0-1 pts per chart) | Use of GIT, developent set-up is not demonstrated or documented, page is not formatted with proper layout or explanatory text (0-1 pts) |
 
 ## USC SCF Publishing Instructions 
 
