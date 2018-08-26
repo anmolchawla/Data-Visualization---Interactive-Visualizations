@@ -2,7 +2,7 @@
 
 ## Description
 
-From [http://data.worldbank.org](http://data.worldbank.org), download *Rural population (% of total population)* data for 20 countries and a year of your choice. In `index.html` load the data as CSV using D3. With D3 create a table, a bar chart, a scatterplot, and a bubble chart. Create axes for the charts (no values, tickmarks, or axis arrows required). Describe and cite your data source in the page. Document in `README.md`. Demonstrate good development practices (explain set-up, deployment, and use incremental commits). Publish on your USC SCF account ([see instructions below](#usc-scf-publishing-instructions)) and add a link to the **published** `index.html` in `README.md`. 
+From [http://data.worldbank.org](http://data.worldbank.org), download *Rural population (% of total population)* data for 20 countries and a year of your choice. In `index.html` load the data as CSV using D3. With D3 data join create an HTML table, an SVG bar chart, scatterplot, and bubble chart. Create axes for the charts (as lines, no values, tickmarks, or axis arrows required) as applicable. Describe and cite your data source in the page. Document in `README.md`. Demonstrate good development practices (explain set-up, deployment, and use incremental commits). Publish on your USC SCF account ([see instructions below](#usc-scf-publishing-instructions)) and add a link to the **published** `index.html` in `README.md`. 
 
 ## Rubric
 
