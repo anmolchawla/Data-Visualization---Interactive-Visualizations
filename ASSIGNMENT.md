@@ -2,7 +2,7 @@
 
 ## Description
 
-From [https://data.worldbank.org](http://data.worldbank.org), download *Rural population (% of total population)* data for 20 countries and a year of your choice. In `a4.html` load the data as CSV using D3. With D3 data join, create 1) an HTML table, 2) an SVG bar chart, 3) an SVG scatterplot, and 4) an SVG bubble chart. Create axes for the charts (as lines, no values, tickmarks, or axis arrows required) as applicable. Describe and cite your data source in the page. Briefly describe what can be learned from your charts. Document your work in `README.md`. Demonstrate good development practices (explain set-up and deployment, and use incremental commits in Git). Publish your work on your USC SCF account ([see instructions below](#usc-scf-publishing-instructions)). Add a link to the **published** `a4.html` in `README.md`. 
+From [https://data.worldbank.org](http://data.worldbank.org), download *Rural population (% of total population)* data for 20 countries and a year of your choice. In `a4.html` load the data as CSV using D3. With D3 data join, create 1) an HTML table, 2) an SVG bar chart, 3) an SVG scatterplot, and 4) an SVG bubble chart. Create axes for the charts (as lines, no values, tickmarks, or axis arrows required) as applicable. Describe and cite your data source in the page. Document your work in `README.md`. Demonstrate good development practices (explain set-up and deployment, and use incremental commits in Git). Publish your work on your USC SCF account ([see instructions below](#usc-scf-publishing-instructions)). Add a link to the **published** `a4.html` in `README.md`. 
 
 ## Rubric
 
@@ -53,4 +53,5 @@ You should be able to see the page by going to: `http://www-scf.usc.edu/~<userna
 - Homework repository must be updated before the start of next class
 - Commits after the submission deadline will not be considered unless requested
 - Late policy: 10% of total available points per each 24-hour late; duration less than 24 hours counts as a 24-hour period
-- Homework is expected to work in all 3 platforms: Safari AND Chrome (Mac), Edge AND Chrome (Windows), Firefox AND Chrome (Linux)
+- Homework is expected to work in: Safari AND Chrome (Mac), Edge AND Chrome (Windows), Firefox AND Chrome (Linux)
+- Some OSs use case-sensitive filenames, especially Linux. Points will be deducted for `ERR_FILE_NOT_FOUND` resulting from mismatching filename cases. You have been warned.
