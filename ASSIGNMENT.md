@@ -43,6 +43,7 @@ $ chmod -R 755 public_html  # make readable by www user so Apache can access
 You should be able to see the page by going to: `http://www-scf.usc.edu/~<username>/a4.html`
 
 ### References
+
 * https://itservices.usc.edu/scf/
 * https://www.youtube.com/watch?v=yfDDw4v0bzY
 * http://www.putty.org
@@ -50,8 +51,12 @@ You should be able to see the page by going to: `http://www-scf.usc.edu/~<userna
 * http://mobaxterm.mobatek.net/
 
 ## Homework Guidelines
+
 - Homework repository must be updated before the start of next class
 - Commits after the submission deadline will not be considered unless requested
 - Late policy: 10% of total available points per each 24-hour late; duration less than 24 hours counts as a 24-hour period
 - Homework is expected to work in: Safari AND Chrome (Mac), Edge AND Chrome (Windows), Firefox AND Chrome (Linux)
-- Some OSs use case-sensitive filenames, especially Linux. Points will be deducted for `ERR_FILE_NOT_FOUND` resulting from mismatching filename cases. You have been warned.
+
+## Important Note from Graders
+
+Homework will be assessed on Linux systems which use case-sensitive filesystem by default. Ensure that you use the same case when referring to files in web pages. For example, if an image tag refers to `myFile.png` but the actual filename is `myfile.png`, the image will not appear on the web page in Linux systems. We will deduct points if this happens. Use [Visual Studio Code HTML path completion feature](https://code.visualstudio.com/updates/v1_21#_html-path-completion) and/or double-check filenames to avoid this problem.
