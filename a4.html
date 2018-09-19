@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>World Rural Population </title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script src="https://d3js.org/d3.v5.min.js"></script>
+	</head>
+
+	<body>
+		<center>
+			<h1>World Rural Population Data Analysis</h1>
+			<h2>A brief visual analysis of twenty countries rural population as a percentage of their total population </h2>
+		</center>
+		<h3><u>Overview</u></h3>
+		<p>The data was taken from <a href="http://databank.worldbank.org/data/reports.aspx?source=2&series=SP.RUR.TOTL.ZS&country=#" target = _blank >World Bank Organization</a>.The following countries were chosen <br>
+			<ul>
+
+<li>Brazil</li>
+<li>India</li>
+<li>Italy</li>
+<li>Pakistan</li>
+<li>Russian Federation</li>
+<li>Spain</li>
+<li>Switzerland</li>
+<li>United States</li>
+<li>United Kingdom</li>
+<li>Nigeria</li>
+<li>New Zealand</li>
+<li>Mexico</li>
+<li>France</li>
+<li>China</li>
+<li>Canada</li>
+<li>Australia</li>
+<li>Sri Lanka</li>
+<li>Thailand</li>
+<li>Ukraine</li>
+<li>Vietnam</li>
+</ul>
+
+The following are representation of the same data in the form of a 1) HTML Table 2) SVG Bar Chart 3) SVG Scatter Plot 4) SVG Bubble Chart the aim is to use D3 to visualize data and to understand how the mentioned countries stack up to each other in terms of rural population. Also the  page is being hosted on a live server for easier access.
+</p>
+<br>
+<br>
+<br>
+
+<center>
+<h3>HTML Table</h3>	
+<br>
+<br>
+
+<table id="table1">
+<!-- 	<tr>
+			<th>1</th>
+			<th>2</th>
+	</tr> -->
+</table>
+
+<br>
+<br>
+
+<h3>SVG Bar Chart (Scaling factor : Multiplication 5.5)</h3>	
+<svg id="bar">	
+</svg>
+
+<br>
+<br>
+<h3>SVG Scatter Plot</h3>	
+<svg id="scatter">	
+</svg>
+
+<br>
+<br>
+<h3>SVG Bubble Chart</h3>	
+<svg id="bubble">	
+</svg>
+
+</center>
+
+		<script type="text/javascript" src="shapes.js"></script>
+	</body>
+	</html>
